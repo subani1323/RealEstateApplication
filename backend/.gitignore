@@ -1,0 +1,43 @@
+serviceAccountKey.json.json
+
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Firebase emulators and local settings
+.firebase/
+.firebaserc
+
+# Optional: Ignore backend/.git if created accidentally
+backend/.git
+
+# Coverage reports
+coverage/
+
+# Misc
+*.log
+*.bak
+*.tmp
+*.swp
+
